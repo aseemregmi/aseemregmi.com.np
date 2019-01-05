@@ -1,0 +1,11 @@
+{
+  "name": "aseemregmi.com.np",
+  "version": "1.0.0",
+  "description": "my-web-site",
+  "main": "index.html",
+  "scripts": {
+    "test": "startmyweb"
+  },
+  "author": "",
+  "license": "ISC"
+}
