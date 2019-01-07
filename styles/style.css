@@ -370,11 +370,11 @@ canvas {
 }
 
 #react {
-  width: 10%;
+  width: 40%;
 }
 
 #node {
-  width: 2%;
+  width: 40%;
 }
 
 #corel-draw {
@@ -484,7 +484,6 @@ canvas {
     position: relative;
     top: -110px;
   }
-
 
   .header {
     background-color: aliceblue;
